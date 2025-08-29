@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../assets/img.svg"
+import img from "../../public/Grocery shopping-amico 2.png"
 
 const Section = () => {
   return (
@@ -10,7 +10,7 @@ const Section = () => {
             <button className='btn btn-primary w-[300px] h-[42px]'>Заказать демонстрацию</button>
         </div>
         <div>
-            <img src={img} alt="" />
+            <img  src={img} alt="" />
         </div>
 
     </div>
