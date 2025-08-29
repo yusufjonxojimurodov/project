@@ -12,7 +12,7 @@ const Section = () => {
         <div>
             <img  src={img} alt="" />
         </div>
-
+<h1>sarvar yozdi</h1>
     </div>
   )
 }
