@@ -3,9 +3,9 @@ import img from "img.svg"
 
 const Section = () => {
   return (
-    <div className='container'>
+    <div className='flex gap-[20px]'>
 
-        <div>
+        <div className=' '>
             <h1>Управление запасами розничного магазина</h1>
             <p>Использование сервиса 1С-Товары позволяет значительно упростить работу по формированию заявок поставщику.</p>
             <button className='btn w-[300px] h-[42px]'>Заказать демонстрацию</button>
