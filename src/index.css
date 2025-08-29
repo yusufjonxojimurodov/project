@@ -1,2 +1,12 @@
 @import "tailwindcss";
-@plugin "daisyui"
+@plugin "daisyui";
+
+.container {
+  max-width: 100%;
+  width: 85%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: white !important;
+}
